@@ -1,0 +1,218 @@
+﻿.background {
+	background-image: url(" ../imagens/fundo_login.jpg");
+	margin: 0;
+	background-attachment: fixed;
+	background-position: center;									
+}
+.logo {
+	height: 80px;
+	width: 120px;
+	padding: 0 0 0 70px;
+	float: left;
+	
+}
+.log {
+	text-align: right;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 0 120px 0 0;	
+}
+ul.demo {
+    list-style-type: none;
+	margin-top:32px;
+}
+.lu{
+	background-color: #333;
+	color: white;
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 3px;
+	overflow: hidden;
+}
+.il {
+    display: inline;
+	padding: 0 10px 0 10px;
+	float: left;
+}
+.barra {
+	color: white;
+	text-decoration: none;
+}
+li a:hover:not(.active) {
+    color: #888888;
+}
+.dd {
+	height:500px; 
+	padding-top: 100px;
+}
+.registrese {
+	background-color: white;
+	font-family: Arial Black;
+	font-size: 20px;
+	color: #de0f7b;
+	letter-spacing: 1px;	
+	padding: 25px 25px;
+	margin: 50px 0 0 20%;
+	float:left;
+}
+.registrese2 {
+	background-color: white;
+	font-family: Arial Black;
+	font-size: 20px;
+	color: black;
+	letter-spacing: 1px;
+	padding: 25px 25px;
+	margin-left: 30px;
+	float:left;	
+}
+.emaillogin {
+    width: 340px;
+	padding: 12px 20px;
+	margin: 20px 0 10px 0;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	background-color: white;
+	color: #4c4c4c;
+	font-family: calibri;
+	font-size: 17px;  
+}
+.senhalogin {
+	width: 272px;
+	padding: 12px 20px;
+	margin: 0 0 10px 0;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	background-color: white;
+	color: #4c4c4c;
+	font-family: calibri;
+	font-size: 17px; 
+}
+.botaologin {
+	width: 60px;
+	padding: 12px 2px;
+	background-color: black;
+    color: white;
+	border: none;
+	font-family: Arial Black;
+	font-size: 15px;
+	letter-spacing: 1px;
+}
+.botaologin:hover {
+    background-color: #666666;
+	color: white;
+}
+
+.inputregistro {
+	width: 340px;
+	padding: 12px 20px;
+	margin: 0 0 10px 0;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	background-color: white;
+	color: #4c4c4c;
+	font-family: calibri;
+	font-size: 17px;  
+}
+.mgtop20{
+	margin-top:20px;
+}
+.aceitoreceberemail {
+	color: #333;
+	font-family: calibri;
+	font-size: 18px;
+}
+.botaoregistrar {
+	width: 120px;
+	padding: 9px 2px;
+	background-color: #de0f7b;
+    color: white;
+	border: none;
+	font-family: Arial Black;
+	font-size: 12px;
+	letter-spacing: 1px;	
+}
+.botaoregistrar:hover {
+    background-color: #b1025d;
+	color: white;
+}
+.midias {
+	background-color: #333;
+	text-align: right;
+}
+.lusocial {
+	list-style-type: none;
+	padding-right: 70px;
+}
+.ilsocial  {
+	display: inline;
+}
+.redessociais {
+	height: 40px;
+	width: 40px;	
+}
+.requerimento {
+	text-align: right;
+	background-color: #333;
+	padding: 20px 60px 0 0;
+	color: white;
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 1px;
+	float: right;
+}
+.emailrodape {
+    width: 470px;
+    padding: 12px 20px;
+    margin-top: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	background-color: #333;
+	color: white;
+	font-family: calibri;
+	font-size: 17px;
+}
+.botaorodape {
+    width: 120px;
+	padding: 14px 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+	font-family: calibri;
+	font-size: 16px;
+}
+.botaorodape:hover {
+    background-color: #666666;
+	color: white;
+}
+.logo2 {
+	height: 80px;
+	width: 120px;
+	padding: 10px 0 0 70px;
+	float: left;
+	
+}
+.lurodape {
+	list-style-type: none;
+	color: white;	
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 1px;
+	display: block;
+	padding: 7px 0 30px 35px;
+	background-color: #333;
+	margin-right: 50%;
+}	
+.lirodape {
+	color: white;
+	text-decoration: none;
+	line-height: 1.8;
+	display: block;
+	padding: 0 0 0 35px;
+	background-color: #333;
+}
+.rodape {
+	background-color: #333;
+	border:1px solid #333;
+}

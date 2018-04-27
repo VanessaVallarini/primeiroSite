@@ -1,0 +1,190 @@
+.background {
+	background-color: white;
+	margin: 0;
+	background-attachment: fixed;
+	background-position: center;									
+}
+.logo {
+	height: 80px;
+	width: 120px;
+	padding: 0 0 0 70px;
+	float: left;
+	
+}
+.log {
+	text-align: right;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 0 120px 0 0;	
+}
+ul.demo {
+    list-style-type: none;
+	margin-top:32px;
+}
+.lu{
+	background-color: #333;
+	color: white;
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 3px;
+	overflow: hidden;
+}
+.il {
+    display: inline;
+	padding: 0 10px 0 10px;
+	float: left;
+}
+.barra {
+	color: white;
+	text-decoration: none;
+}
+li a:hover:not(.active) {
+    color: #888888;
+}
+h2 {
+	font-family: Arial Black;
+	font-size: 27px;
+	color: black;
+	letter-spacing: 1px;
+}
+p {
+	font-family: Arial;
+	font-size: 18px;
+	color: black;
+	letter-spacing: 1px;
+}
+.links {
+	font-family: Arial Black;
+	font-size: 15px;
+	color: black;
+	text-decoration: none;
+}
+
+.sectionposicao1 {
+	height:505px;
+	background-color: #c8a9a4;
+}
+.divposicao1{
+	display:inline; 
+	float:left;
+	margin-top: 10px;
+	margin-left: 15%;
+}
+.divposicao12 {
+	display:inline; 
+	float:left; 
+	margin-top:115px;
+}
+.sectionposicao2 {
+	height:505px;
+	background-color: #ffffff;
+}
+.divposicao2 {
+	display:inline; 
+	float:left;
+	margin-top: 115px;
+	margin-left: 20%;
+}
+.divposicao22 {
+	display:inline; 
+	float:left; 
+	margin-top:10px;
+	padding-left: 50px;
+}
+.sectionposicao3 {
+	height:498px;
+	background-color: #c3d5d9;
+}
+.divposicao3 {
+	display:inline; 
+	float:left;
+	margin-top: 10px;
+	margin-left: 15%;
+}
+.divposicao32 {
+	display:inline; 
+	float:left; 
+	margin-top:115px;
+}
+.midias {
+	background-color: #333;
+	text-align: right;
+}
+.lusocial {
+	list-style-type: none;
+	padding-right: 70px;
+	margin-top:15px;
+}
+.ilsocial  {
+	display: inline;
+}
+.redessociais {
+	height: 40px;
+	width: 40px;
+}
+.requerimento {
+	text-align: right;
+	background-color: #333;
+	padding: 20px 60px 0 0;
+	color: white;
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 1px;
+	float: right;
+}
+.emailrodape {
+    width: 470px;
+    padding: 12px 20px;
+    margin-top: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	background-color: #333;
+	color: white;
+	font-family: calibri;
+	font-size: 17px;
+}
+.botaorodape {
+    width: 120px;
+	padding: 14px 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+	font-family: calibri;
+	font-size: 16px;
+}
+.botaorodape:hover {
+    background-color: #666666;
+	color: white;
+}
+.logo2 {
+	height: 80px;
+	width: 120px;
+	padding: 7px 0 0 70px;
+	float: left;
+	
+}
+.lurodape {
+	list-style-type: none;
+	color: white;	
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 1px;
+	display: block;
+	padding: 7px 0 30px 35px;
+	background-color: #333;
+	margin-right: 50%;
+}	
+.lirodape {
+	color: white;
+	text-decoration: none;
+	line-height: 1.8;
+	display: block;
+	padding: 0 0 0 35px;
+	background-color: #333;
+}
+.rodape {
+	background-color: #333;
+	border:1px solid #333;
+}

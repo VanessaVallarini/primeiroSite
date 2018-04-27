@@ -1,0 +1,174 @@
+﻿.background {
+	background-image: url(" ../imagens/background_cosmeticos.jpg");
+	margin: 0;
+	background-attachment: fixed;
+	background-position: center;								
+}
+.logo {
+	height: 80px;
+	width: 120px;
+	padding: 0 0 0 70px;
+	float: left;
+	
+}
+.log {
+	text-align: right;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 0 120px 0 0;	
+}
+ul.demo {
+    list-style-type: none;
+	margin-top:32px;
+}
+.lu{
+	background-color: #333;
+	color: white;
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 3px;
+	overflow: hidden;
+}
+.il {
+    display: inline;
+	padding: 0 10px 0 10px;
+	float: left;
+}
+.barra {
+	color: white;
+	text-decoration: none;
+}
+li a:hover:not(.active) {
+    color: #888888;
+}
+.banner {
+	max-width:100%; 
+	width:100%;
+}
+.fundo {
+	background-color: white;
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 8px;
+	margin-top:50px;
+	border: 2px solid #f3e4dd;
+} 
+.alnCentro {
+	text-align:center;
+	padding-top: 30px;
+}
+h2 {
+	font-family: calibri;
+	font-size: 25px;
+	color: #4c4c4c;
+	letter-spacing: 1px;
+	text-align: center;	
+}
+p {
+	font-family: calibri;
+	font-size: 18px;
+	color: #4c4c4c;
+	letter-spacing: 1px;
+	text-indent: 50px;
+	text-align: justify;
+	padding: 0 30px 0 30px;
+	line-height: 30px;
+}
+.banner2 {
+	text-align:center;
+	margin-top: 10px;
+	
+}
+.fundo2 {
+	background-color: white;
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 8px;
+	border: 2px solid #f3e4dd;
+} 
+
+	
+	
+.midias {
+	background-color: #333;
+	text-align: right;
+}
+.lusocial {
+	list-style-type: none;
+	padding-right: 70px;
+}
+.ilsocial  {
+	display: inline;
+}
+.redessociais {
+	height: 40px;
+	width: 40px;	
+}
+.requerimento {
+	text-align: right;
+	background-color: #333;
+	padding: 20px 60px 0 0;
+	color: white;
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 1px;
+	float: right;
+}
+.emailrodape {
+    width: 470px;
+    padding: 12px 20px;
+    margin-top: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	background-color: #333;
+	color: white;
+	font-family: calibri;
+	font-size: 17px;
+}
+.botaorodape {
+    width: 120px;
+	padding: 14px 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+	font-family: calibri;
+	font-size: 16px;
+}
+.botaorodape:hover {
+    background-color: #666666;
+	color: white;
+}
+.logo2 {
+	height: 80px;
+	width: 120px;
+	padding: 10px 0 0 70px;
+	float: left;
+	
+}
+.lurodape {
+	list-style-type: none;
+	color: white;	
+	font-family: calibri;
+	font-size: 18px;
+	letter-spacing: 1px;
+	display: block;
+	padding: 7px 0 30px 35px;
+	background-color: #333;
+	margin-right: 50%;
+}	
+.lirodape {
+	color: white;
+	text-decoration: none;
+	line-height: 1.8;
+	display: block;
+	padding: 0 0 0 35px;
+	background-color: #333;
+}
+.rodape {
+	background-color: #333;
+	border:1px solid #333;
+}
